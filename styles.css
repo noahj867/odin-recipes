@@ -1,0 +1,9 @@
+.link{
+    color: black;
+    font-size: 30px;
+
+}
+
+.link.toscana{
+    background-color: aqua;
+}
